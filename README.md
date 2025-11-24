@@ -128,7 +128,6 @@ revenue-forecasting/
 ├── requirements.txt               # Python dependencies
 ├── run.sh                         # Quick start script
 ├── README.md                      # Project documentation
-├── IMPROVEMENTS.md                # Project improvements summary
 └── LICENSE                        # MIT License
 ```
 
