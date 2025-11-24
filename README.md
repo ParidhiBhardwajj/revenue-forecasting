@@ -125,12 +125,6 @@ revenue-forecasting/
 │   ├── export_functions.py        # Excel/CSV export functionality
 │   ├── statistical_analysis.py   # Statistical testing & analysis
 │   └── database.py                # SQL database operations
-├── docs/                          # Additional documentation
-│   ├── QUICK_START.md
-│   ├── RUN_INSTRUCTIONS.md
-│   ├── IMPLEMENTATION_SUMMARY.md
-│   ├── NEW_FEATURES.md
-│   └── ENHANCEMENT_OPPORTUNITIES.md
 ├── requirements.txt               # Python dependencies
 ├── run.sh                         # Quick start script
 ├── README.md                      # Project documentation
@@ -193,11 +187,6 @@ This dashboard enables data-driven decision making for:
 
 ## 📝 Documentation
 
-- **[Quick Start Guide](docs/QUICK_START.md)**: Get up and running quickly
-- **[Run Instructions](docs/RUN_INSTRUCTIONS.md)**: Detailed setup instructions
-- **[New Features](docs/NEW_FEATURES.md)**: Guide to latest features
-- **[Implementation Summary](docs/IMPLEMENTATION_SUMMARY.md)**: Technical implementation details
-- **[Enhancement Opportunities](docs/ENHANCEMENT_OPPORTUNITIES.md)**: Future improvement ideas
 - **[Improvements](IMPROVEMENTS.md)**: Summary of project enhancements
 
 ## 🔧 Troubleshooting
@@ -217,7 +206,7 @@ streamlit run scripts/app.py
 streamlit run scripts/app.py --server.port 8502
 ```
 
-For more detailed troubleshooting, see [RUN_INSTRUCTIONS.md](docs/RUN_INSTRUCTIONS.md)
+For troubleshooting, check the error message and refer to the installation section above.
 
 ## 🤝 Contributing
 
