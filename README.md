@@ -187,7 +187,7 @@ This dashboard enables data-driven decision making for:
 
 ## 📝 Documentation
 
-- **[Improvements](IMPROVEMENTS.md)**: Summary of project enhancements
+All project documentation is included in this README.
 
 ## 🔧 Troubleshooting
 
@@ -208,9 +208,6 @@ streamlit run scripts/app.py --server.port 8502
 
 For troubleshooting, check the error message and refer to the installation section above.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
