@@ -1,18 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
 # Python files
 *.py text eol=lf
-
 # Shell scripts
 *.sh text eol=lf
-
 # Markdown files
 *.md text eol=lf
-
 # Data files (CSV)
 *.csv text eol=lf
-
 # Binary files
 *.db binary
 *.sqlite binary
@@ -22,4 +17,4 @@
 *.jpeg binary
 *.gif binary
 *.pdf binary
-
+data/*.csv filter=lfs diff=lfs merge=lfs -text

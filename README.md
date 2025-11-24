@@ -81,11 +81,16 @@ This project builds an interactive forecasting dashboard that enables business s
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/revenue-forecasting.git
+git clone https://github.com/ParidhiBhardwajj/revenue-forecasting.git
 cd revenue-forecasting
 ```
 
-2. **Install dependencies:**
+2. **Add the data file:**
+   - The `data/train.csv` file (116MB) is excluded from git due to size limits
+   - Place your `train.csv` file in the `data/` directory
+   - The other data files (`oil.csv`, `holidays_events.csv`) are included
+
+3. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```

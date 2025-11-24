@@ -55,6 +55,6 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
-# Data files (uncomment if data files are large)
-# data/*.csv
+# Data files (large files excluded - see README for data source)
+data/train.csv
 
