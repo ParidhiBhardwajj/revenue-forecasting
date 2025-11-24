@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name** - Data Analyst / Business Analyst Portfolio Project
+**Paridhi Bhardwaj** - Data Analyst / Business Analyst Portfolio Project
 
 ## 🙏 Acknowledgments
 
